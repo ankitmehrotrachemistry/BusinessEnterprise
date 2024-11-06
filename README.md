@@ -1,0 +1,1 @@
+Profit , Loss of a business, Business Transaction, Account:, Capital:, Gain:, Purchases:, Purchase return, Sales:, Sales return, Income:, Expense:, Discount in business enterprise Dot Net Core MVC Project in ChatGPT.
